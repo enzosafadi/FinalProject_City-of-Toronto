@@ -6,7 +6,7 @@
 
 This project prepares Toronto postal-code and neighborhood data, enriches it with geographic coordinates and nearby venue categories, and applies K-means clustering to create an interpretable neighborhood segmentation.
 
-**Built by Braulio · Academic Portfolio Project · Public and Third-Party Data**  
+**Built by Enzo · Academic Portfolio Project · Public and Third-Party Data**  
 **Project Date: February 2021**
 
 ---
@@ -153,4 +153,10 @@ This repository demonstrates web-data extraction, data cleaning, geographic inte
 
 ---
 
-**February 2021 · Academic Portfolio Project · Built by Braulio**
+**February 2021 · Academic Portfolio Project · Built by Enzo**
+
+## Who it benefits
+
+Toronto location researchers, neighborhood analysts and data-science students: a historical workflow for geographic preparation, venue profiling and exploratory clustering.
+
+These are intended users and benefits, not evidence of adoption or measured customer outcomes.
